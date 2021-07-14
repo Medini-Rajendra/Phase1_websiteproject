@@ -14,10 +14,10 @@ The goal of the project is to create a replica of a webpage given to us as assig
 
 ## Live Demo
 
-[Live Demo Link](https://medini-rajendra.github.io/website_project_dev/)
+[Live Demo Link](https://medini-rajendra.github.io/Phase1_websiteproject/)
 
 ## Setup 
-- git clone https://github.com/Medini-Rajendra/website_project_dev.git
+- git clone https://github.com/Medini-Rajendra/Phase1_websiteproject.git
 - cd into the folder
 - git checkout recreate_webpage
 - open `index.html` with live server
